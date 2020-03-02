@@ -4,8 +4,8 @@
 - Ildefonso Serrano Civantos: [isc00024@red.ujaen.es](mailto:isc00024@red.ujaen.es)
 - Francisco Javier Martínez Bueno: [fjmb0011@red.ujaen.es](mailto:fjmb0011@red.ujaen.es)
 
-##  Descripción de la trama del juego y el persona
-En este juego, eres un estudiante de ingeniería informática que se enfrenta a un rutinario día. Deberás elegir entre una serie de posibles acciones para bajar a la universidad y asistir a la clase correspondiente para aprobar la asignatura.
+##  Descripción de la trama del juego y el personaje
+En este juego, eres un estudiante de ingeniería informática que se enfrenta a un rutinario día. Deberás elegir entre una serie de posibles acciones para conseguir tus objetivos: el primero es bajar a la universidad y el segundo es asistir a la clase correspondiente para aprobar la asignatura.
 
 ## Enlaces de interés
 - **URL de proyecto en github:** click [aquí](https://github.com/desarrollo-agil-maj/practica02)
